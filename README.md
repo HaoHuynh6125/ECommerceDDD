@@ -2,4 +2,4 @@ Thông tin sinh viên
 Tên: Huỳnh Thiên Hạo
 MSSV: 2324802010212 
 Link video : 
-<!-- Uploading "Lab3_KTTKPM_2324802010212_HuynhThienHao (1).mp4"... -->
+https://github.com/user-attachments/assets/c8721351-f762-4f80-8bfe-e0cbff051a9c
